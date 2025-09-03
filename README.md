@@ -21,9 +21,9 @@ L’objectif est d’appliquer les techniques de data mining pour **analyser la 
 
 | Fichier | Description |
 |---------|-------------|
-| `Projet_DataMining_Ecommerce.ipynb` | Notebook complet (EDA, clustering, modèles, drivers, recommandations) |
+| `Projet_DataMining_Ecommerce_FINAL.ipynb` | Notebook complet (EDA, clustering, modèles, drivers, recommandations) |
 | `dataset/E-commerce_Dataset.csv` | Jeu de données e-commerce (clients, satisfaction, retours) |
-| `Projet_DataMining_Ecommerce_Presentation.pptx` | Diaporama PowerPoint de présentation |
+| `Analyse Data Mining sur le e-commerce.pptx` | Diaporama PowerPoint de présentation |
 | `README.md` | Présentation détaillée du projet, instructions et contexte |
 
 ---
